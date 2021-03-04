@@ -3,6 +3,7 @@
 - 🎓 I'm a PostDoc in the Algorithm Engineering group at KIT
 - 🔭 I'm currently working on extremely space-efficient approximate membership query (think: Bloom filter 🌸) & retrieval (perfect hash static function) data structures
 - 📖 My dissertation was on communication-efficient probabilistic algorithms for Big Data problems. [You can read it here.](https://publikationen.bibliothek.kit.edu/1000127719/96591782)
+- 📚 You can find my other publications on [my Google Scholar profile](https://scholar.google.com/citations?user=1M0ZTQUAAAAJ).
 - 🏢 I'm open for interesting jobs in Munich!
 - 📫 Contact me at my username @ the domain in my profile
 
