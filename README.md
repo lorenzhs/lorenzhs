@@ -1,4 +1,10 @@
-### Hi there 👋
+### Heyo 👋
+
+- 🎓 I'm a PostDoc in the Algorithm Engineering group at KIT
+- 🔭 I'm currently working on extremely space-efficient approximate membership query (think: Bloom filter 🌸) & retrieval (perfect hash static function) data structures
+- 📖 My dissertation was on communication-efficient probabilistic algorithms for Big Data problems. [You can read it here.](https://publikationen.bibliothek.kit.edu/1000127719/96591782)
+- 🏢 I'm open for interesting jobs in Munich!
+- 📫 Contact me at my username @ the domain in my profile
 
 <!--
 **lorenzhs/lorenzhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
